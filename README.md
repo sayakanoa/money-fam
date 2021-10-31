@@ -24,7 +24,8 @@
 家族とお金について情報共有するとき
 
 ## 設計書
-<...>
+ER図　https://drive.google.com/file/d/18dz08m_teQC-QYa4bp6z-j2TkfOQluNb/view?usp=sharing
+テーブル定義書　https://docs.google.com/spreadsheets/d/1dXcJUAD3f3_7uU_f9cWwlkI4qLYTKAFaBBhrZ7X-Fvw/edit?usp=sharing
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1qYAJBzZ_6eYpYN5aWx3SHifpGYnTuRYE05_SPIQ4qis/edit?usp=sharing
